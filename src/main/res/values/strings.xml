@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">KasirToko</string>
+    <string name="appName">kasirtoko</string>
+    <string name="typeDate">dd-MM-yyyy</string>
+    <string name="Ubah">Ubah</string>
+    <string name="Hapus">Hapus</string>
+    <string name="keterangan">Keterangan</string>
+
+    <string name="cTotalDeposit">Total Deposit</string>
+    <string name="cTotalPencucian">Total Pencucian</string>
+    <string name="cPilihPelanggan">Pilih Pelanggan</string>
+    <string name="cSaldo">Saldo</string>
+    <string name="cJumlah">Jumlah</string>
+    <string name="cTanggal">Tanggal</string>
+    <string name="cKeterangan">Catatan Transaksi</string>
+    <string name="cSimpan">Simpan</string>
+    <string name="cTambahPelanggan">Tambah Pelanggan</string>
+    <string name="cUbahPelanggan">Ubah Pelanggan</string>
+    <string name="cTambahProduk">Tambah Produk</string>
+    <string name="cUbahProduk">Ubah Produk</string>
+    <string name="cSatuan">Satuan Produk</string>
+    <string name="cNamaProduk">Nama Produk</string>
+    <string name="cHarga">Harga</string>
+    <string name="cPelanggan">Nama Pelanggan</string>
+    <string name="cAlamatPelanggan">Alamat Pelanggan</string>
+    <string name="cNoHp">No. HP</string>
+    <string name="cTambahPegawai">Tambah Pegawai</string>
+    <string name="cUbahPegawai">Ubah Pegawai</string>
+    <string name="cPegawai">Nama Pegawai</string>
+    <string name="cAlamatPegawai">Alamat Pegawai</string>
+    <string name="cFaktur">Faktur</string>
+    <string name="cPilihProduk">Pilih Produk</string>
+    <string name="cDari">Dari</string>
+    <string name="cSampai">Sampai</string>
+    <string name="cCari">Cari</string>
+    <string name="cPencarian">Pencarian</string>
+    <string name="cFilename">Nama File</string>
+    <string name="cKeteranganBackup">Backup Database digunakan untuk mencadangkan Data dari handphone, atau bisa memindahkan data ke handphone yang lain.
+        Cara penggunaan silahkan pilih folder destinasi dan lakukan Backup Database</string>
+    <string name="cBeliFull">Beli Full Version</string>
+    <string name="cBeli">Beli Fitur</string>
+    <string name="cUnlimitedTrans">Transaksi tidak terbatas</string>
+    <string name="cToko">Nama Toko</string>
+    <string name="cAlamat">Alamat Toko</string>
+    <string name="cNoTelp">No Telp Toko</string>
+    <string name="cCaption1">Caption Pertama</string>
+    <string name="cCaption2">Caption Kedua</string>
+    <string name="cCaption3">Caption Ketiga</string>
+    <string name="cCaptcha">Kode Captcha</string>
+    <string name="cKetReset">Reset Data Akan menghapus semua data yang telah disimpan, dan kembali seperti awal. silahkan isi code captcha untuk melanjutkan Reset Data</string>
+    <string name="cKeteranganRestore">Untuk mengembalikan data yang sudah di cadangkan. Silahkan pilih file backup dan tekan tombol Kembalikan</string>
+    <string name="cCatatan">Tambah Catatan</string>
+    <string name="cBayarSekarang">Bayar Sekarang</string>
+    <string name="cPembayaran">Pembayaran</string>
+    <string name="cCetakStruk">Cetak Struk</string>
+    <string name="cTotalCucian">Total Cucian</string>
+    <string name="cTotalPelanggan">Total Pelanggan</string>
+    <string name="cPilihPrinter">Pilih Printer</string>
+    <string name="cPrinter">Printer</string>
+    <string name="cKembali">Kembali</string>
+    <string name="cCetak">Cetak</string>
+    <string name="cConnect">Terhubung</string>
+    <string name="cDisconnect">Tidak Terhubung</string>
+    <string name="cHargaFullVersion">169.000</string>
+    <string name="cTambahKategori">Tambah Kategori</string>
+    <string name="cUbahKategori">Ubah Kategori</string>
+    <string name="cKet">Katerangan</string>
+    <string name="cSatuanBesar">Satuan Besar</string>
+    <string name="cSatuanKecil">Satuan Kecil</string>
+    <string name="cNilaiKecil">Jumlah Satuan Kecil</string>
+    <string name="cTambahSatuan">Tambah Satuan</string>
+    <string name="cUbahSatuan">Ubah Satuan</string>
+    <string name="cPilihKategori">Pilih Kategori</string>
+    <string name="cPilihSatuan">Pilih Satuan</string>
+    <string name="cPayMethod">Metode Pembayaran</string>
+    <string name="cPilihPegawai">Pilih Pegawai</string>
+
+    //INFORMATION
+    <string name="iAddSuccess">Tambah Data Berhasil</string>
+    <string name="iAddFail">Tambah Data Gagal</string>
+    <string name="iUbahSuccess">Ubah data Berhasil.</string>
+    <string name="iUbahFail">Ubah data Gagal.</string>
+    <string name="iHapusSuccess">Hapus data Berhasil.</string>
+    <string name="iHapusGagal">Hapus data Gagal.</string>
+    <string name="iNullData">Tidak ada Data.</string>
+    <string name="iConfirm">Apakah anda yakin ?</string>
+    <string name="iFillForm">Harap isi form.</string>
+    <string name="iLebihDariNol">Masukkan jumlah lebih dari nol.</string>
+    <string name="iSuccessTrans">Transaksi Berhasil.</string>
+    <string name="iFailTrans">Transaksi Gagal.</string>
+    <string name="iSisaSaldo">Sisa Saldo</string>
+    <string name="iKembali">Kembali</string>
+    <string name="iBayarKurang">Uang pembayaran kurang.</string>
+    <string name="iSaldoKurang">Saldo tidak cukup untuk melakukan transaksi.</string>
+    <string name="iPilihPelanggan">Harap Pilih Pelanggan</string>
+    <string name="iPilihPegawai">Harap Pilih Pegawai</string>
+    <string name="iHapusItem">Apakah Anda yakin ? </string>
+    <string name="iFailBackupDB">Nama tidak boleh menggunakan "/"</string>
+    <string name="iCekIzin">Silahkan periksa izin penyimpanan dalam aplikasi ini.</string>
+    <string name="iExportExcel">Anda akan melakukan Export Excel. File Export Excel akan diletakkan pada :</string>
+    <string name="iKeluar">Apakah Anda ingin keluar ?</string>
+    <string name="iPaySuccess">Pembayaran Berhasil</string>
+    <string name="iCekPrinter">Printer Anda tidak terhubung</string>
+    <string name="iNotifPay">KasirToko \nDiaplikasi ini transaksi dan data master akan dibatasi. maka silakan membeli full version untuk membuka unlimited
+    transaksi dan unlimited data master. terima kasih</string>
+    <string name="iFailHapusTrans">Gagal Hapus data. Terdapat transaksi pada data ini.</string>
+
+    //MENU
+    <string name="mnBeranda">Beranda</string>
+    <string name="mnBackup">Cadangkan Data</string>
+    <string name="mnBayar">Bayar</string>
+    <string name="mnRestore">Kembalikan Data</string>
+    <string name="mnReset">Reset Data</string>
+    <string name="mnIdentitas">Identitas</string>
+    <string name="mnBeliFitur">Beli Fitur</string>
+    <string name="mnMaster">Master</string>
+    <string name="mnTransaksi">Transaksi</string>
+    <string name="mnLaporan">Laporan</string>
+    <string name="mnUtilitas">Utilitas</string>
+    <string name="mnAbout">Tentang Kami</string>
+    <string name="mnKategori">Kategori</string>
+    <string name="mnProduk">Produk</string>
+    <string name="mnPegawai">Pegawai</string>
+    <string name="mnPelanggan">Pelanggan</string>
+    <string name="mnSatuan">Satuan</string>
+    <string name="mnPenjualan">Penjualan</string>
+    <string name="mnTopup">Tambah Deposit</string>
+    <string name="mnBayarUtang">Bayar Hutang</string>
+    <string name="mnLapPelanggan">Laporan Pelanggan</string>
+    <string name="mnLapPegawai">Laporan Pegawai</string>
+    <string name="mnLapProduk">Laporan Produk</string>
+    <string name="mnLapTopup">Laporan tambah Deposit</string>
+    <string name="mnLapPenjualan">Laporan Penjualan</string>
+    <string name="mnLapDetail">Laporan Detail Penjualan</string>
+    <string name="mnLapHutang">Laporan Hutang</string>
+    <string name="mnLapBayarHutang">Laporan Bayar Hutang</string>
+    <string name="mnTambahStok">Tambah Stok</string>
+    <string name="iya">IYA</string>
+    <string name="tidak">TIDAK</string>
+
+    // INTRO
+    <string name="inJIntro1">Mudah Digunakan</string>
+    <string name="inJIntro2">Transaksi dengan Mudah</string>
+    <string name="inJIntro3">Membuat Laporan sekali Tekan</string>
+    <string name="inJIntro4">Selamat Menggunakan App Kami !!!</string>
+
+    <string name="inDIntro1">Tampilan yang simple dan dinamis, sehingga pengguna dapat app dengan mudah.</string>
+    <string name="inDIntro2">Melakukan transaksi dengan mudah dan cepat.</string>
+    <string name="inDIntro3">Membuat laporan transaksi cepat dan simpel.</string>
+    <string name="inDIntro4">Jika terdapat masalah silahkan menghubungi \n komputerkit.com \n083-832-032-077</string>
+    <string name="mnLapDetailCucian">Laporan Detail Cucian</string>
+    <string name="mnGuide">Cara Penggunaan</string>
+
+    <string-array name="payMethod">
+        <item>Tunai</item>
+        <item>Hutang</item>
+        <item>Deposit</item>
+    </string-array>
+
+    <string-array name="satuan">
+        <item>Pilih Satuan Barang</item>
+    </string-array>
+
+    <string-array name="type_bayar">
+        <item>Pilih Kategori</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039E79</color>
+    <color name="lightColorPrimary">#039E79</color>
+    <color name="colorPrimaryDark">#039E79</color>
+    <color name="colorAccent">#FC635E</color>
+    <color name="darkcolorAccent">#FC635E</color>
+    <color name="lightcolorAccent">#FC635E</color>
+
+    <color name="satu">#3F4D98</color>
+    <color name="dua">#039E79</color>
+    <color name="tiga">#039E79</color>
+    <color name="empat">#FC635E</color>
+
+    <color name="lightGray">#FCFCFC</color>
+    <color name="gray">#D4D4D4</color>
+    <color name="gray1">#f2f2f2</color>
+    <color name="darkGray">#A3A3A3</color>
+    <color name="darkGray2">#6ba3a3a3</color>
+
+    <color name="merah">#FE504F</color>
+    <color name="biru">#40a0ff</color>
+    <color name="hijau">#40ffa0</color>
+    <color name="ungu">#9554D2</color>
+    <color name="merahmuda">#FF70D2</color>
+    <color name="tosca">#00B19D</color>
+    <color name="peach">#FEA273</color>
+    <color name="kuning">#FBD301</color>
+    <color name="birulangit">#BEE3FE</color>
+
+</resources>
